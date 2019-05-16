@@ -1,2 +1,5 @@
 
 .idea/*
+__pycache__/*
+build/*
+.gitignore___jb_tmp___
